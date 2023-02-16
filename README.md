@@ -1,6 +1,3 @@
-# YouTube Vapor iOS App
+#### Share your favorites songs with everyone anonymously🎵
 
-[Video link here](https://youtu.be/2JuqhabkAT8)
-
-# Lesson 5
-Deploy the Vapor API to Heroku
+- learned from [@mikaelacaron](https://github.com/mikaelacaron) 💖
