@@ -8,7 +8,7 @@
 import Foundation
 
 enum Constants {
-    static let baseURL = "https://cwc-vapor-api.herokuapp.com/"
+    static let baseURL = "https://songsapi.fly.dev/"
 }
 
 enum Endpoints {
